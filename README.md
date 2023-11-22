@@ -6,6 +6,5 @@
 - 🔭 I’m currently designing websites as a freelancer.
 - 👯 I’m looking to collaborate on anything from security and web dev domain.
 - 📄 Here's my [resume](https://drive.google.com/file/d/1v9h33MOxsfkRw85Syg312Q4cBRwJ7yC7/view?usp=sharing).
-- 💻 Check out my [portfolio](https://0x5055.devfolio.io/).
 - 📫 How to reach me: [priyanshu.upadhyay.0505@gmail.com](mailto:priyanshu.upadhyay.0505@gmail.com)
 - 📫 How to reach me: [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyanshu05/)
